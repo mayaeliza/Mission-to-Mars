@@ -6,4 +6,4 @@
 - Use a web application to display the data and alter the design of the web app to accommodate these images
 
 ## Resources
-BeautifulSoup, Splinter, Mongo, Jupiter Notebook, VS Code Editor
+BeautifulSoup, Splinter, Mongo, Jupiter Notebook, VS Code Editor, Python
