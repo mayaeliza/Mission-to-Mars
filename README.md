@@ -1,4 +1,4 @@
-# Mission-to-Mars
+# Mission to Mars Web Scraping 
 
 ## Purpose
 - Use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images frow the web 
